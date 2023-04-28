@@ -1,0 +1,71 @@
+body{
+    background-color: red;
+}
+
+#header{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin: 3%;
+}
+
+#content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fag{
+    display: flex;
+    align-items: center;
+}
+
+#matematikk{
+    display: flex;
+    width: 3%;
+
+}
+#naturfag{
+    display: flex;
+    width: 3%;
+
+}
+#norsk{
+    display: flex;
+    width: 3%;
+
+}
+#engelsk{
+    display: flex;
+    width: 3%;
+
+}
+#samfunnsfag{
+    display: flex;
+    width: 3%;
+
+}
+#kh{
+    display: flex;
+    width: 3%;
+    
+}
+#kroppsoving{
+    display: flex;
+    width: 3%;
+
+}
+
+h2{
+    font-size: 70%;
+    
+}
+
+p{
+    font-size: 90%;
+
+}
+
+
+

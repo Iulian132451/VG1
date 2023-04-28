@@ -1,0 +1,121 @@
+body{
+    background-color: #94BEE6;
+}
+#innpaking{
+    width: 50%;
+    min-height: 600px;
+    padding: 5px;
+    background-color: burlywood;
+    margin: 30px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#iulian{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 100%;
+    height: 50px;
+}
+#nav{
+    display: flex;
+    flex-flow: column;
+}
+div{
+    margin: 5px;
+    padding: 5px;
+}
+#innpaking{
+    width: 100%;
+    min-height: 800px;
+    padding: 5px;
+    background-color: #94BEE6;
+    margin: 30px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#header{
+    background-color: white;
+    
+    flex: 100%;
+    height: 300px;
+
+}
+#nav{
+    background-color:white;
+    display: flex;
+    flex-flow: column;
+    flex: 1;
+    height: 500px;
+}
+#content{
+    background-color: white;
+    display: flex;
+    flex: 4;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+ul li{
+    display: inline;
+}
+#Top_Menu li{
+    display: inline-block;
+}
+ul a{
+    display: block;
+    background-color: lightblue;
+    width: 120px;
+    padding: 10px;
+    margin: 2px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 10px;
+}
+ul a:hover{
+    background-color: #94BEE6;
+}
+.Logo{
+    display: flex; 
+    justify-content: flex-end;
+
+}
+.Oslo{
+    display: flex;
+    justify-content: center;
+    
+}
+#header1{
+    background-color: white;
+    flex: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#content1{
+    background-color: white;
+    flex: 100%;
+    height: 400px;
+}
+#kon{
+    background-color: white;
+
+}
+#Bilder{
+    background-color: white;
+    flex: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#logo{
+    display: flex;
+    justify-content: flex-end;
+}
